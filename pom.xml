@@ -13,60 +13,6 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-<!--        <dependencies>-->
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/info.cukes/gherkin &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>info.cukes</groupId>-->
-<!--            <artifactId>gherkin</artifactId>-->
-<!--            <version>2.12.2</version>-->
-<!--            <scope>provided</scope>-->
-<!--        </dependency>-->
-
-<!--            &lt;!&ndash; https://mvnrepository.com/artifact/junit/junit &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>junit</groupId>-->
-<!--                <artifactId>junit</artifactId>-->
-<!--                <version>4.12</version>-->
-<!--                <scope>test</scope>-->
-<!--            </dependency>-->
-
-<!--            &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-java &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>io.cucumber</groupId>-->
-<!--                <artifactId>cucumber-java</artifactId>-->
-<!--                <version>7.5.0</version>-->
-<!--                <scope>test</scope>-->
-<!--            </dependency>-->
-
-<!--            &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-core &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>io.cucumber</groupId>-->
-<!--                <artifactId>cucumber-core</artifactId>-->
-<!--                <version>6.6.0</version>-->
-<!--            </dependency>-->
-
-<!--            &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-testng &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>io.cucumber</groupId>-->
-<!--                <artifactId>cucumber-testng</artifactId>-->
-<!--                <version>7.3.4</version>-->
-<!--            </dependency>-->
-
-<!--            &lt;!&ndash; https://mvnrepository.com/artifact/io.cucumber/cucumber-junit &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>io.cucumber</groupId>-->
-<!--                <artifactId>cucumber-junit</artifactId>-->
-<!--                <version>6.11.0</version>-->
-<!--                <scope>test</scope>-->
-<!--            </dependency>-->
-
-<!--           <dependency>-->
-<!--             <groupId>org.seleniumhq.selenium</groupId>-->
-<!--              <artifactId>selenium-java</artifactId>-->
-<!--                 <version>4.1.2</version>-->
-<!--             </dependency>-->
-
-<!--              </dependencies>-->
 
     <dependencies>
         <dependency>
